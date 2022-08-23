@@ -1,19 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shamik Rana</h1>
+<h3 align="center">I love maths, programming, data science and books.</h3>
 
-<!--
-**ShamikRana/ShamikRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Machine Learning and MySQL**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **shamikrana@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shamikrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shamikrana" height="30" width="40" /></a>
+<a href="https://kaggle.com/shamikrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shamikrana" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shamikrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shamikrana" height="30" width="40" /></a>
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
