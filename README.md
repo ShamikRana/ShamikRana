@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamik Rana</h1>
 <h3 align="center">I love maths, programming, data science and books.</h3>
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
+- 🌱 I’m currently learning **NLP and Model Deployment**
 
 - 📫 How to reach me **shamikrana@gmail.com**
 
@@ -23,8 +23,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikitlearn" alt="Scikitlearn " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow " width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask " width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
