@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamik Rana</h1>
 <h3 align="center">I love maths, programming, data science and books.</h3>
 
-- 🌱 I’m currently learning **Model Deployment**
+- 🌱 I’m currently learning **Chatbot Integration**
 
 - 📫 How to reach me **shamikrana@gmail.com**
 
